@@ -2,10 +2,10 @@
   "manifest": {
     "name": "Furina Theme",
     "author": "rpanja",
-    "updater": "https://raw.githubusercontent.com/rpanj/Aliucord_furina/main/furina.json"
+    "updater": "https://raw.githubusercontent.com/rpanjacodes/Aliucord_furina/main/furina.json"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/rpanj/Aliucord_furina/main/furina.jpeg",
+    "url": "https://raw.githubusercontent.com/rpanjacodes/Aliucord_furina/main/furina.jpeg",
     "blur": 0,
     "alpha": 1
   },
