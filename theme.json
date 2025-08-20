@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "name": "Furina Theme",
+    "author": "rpanja",
+    "updater": "https://raw.githubusercontent.com/rpanj/Aliucord_furina/main/furina.json"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/rpanj/Aliucord_furina/main/furina.jpeg",
+    "blur": 0,
+    "alpha": 1
+  },
+  "colors": {
+    "primaryDark": "#0d0f1a",
+    "primaryLight": "#1b2140",
+    "accent": "#6ba6ff",
+    "backgroundFloating": "#151a2d",
+    "backgroundPrimary": "#1c1f33",
+    "backgroundSecondary": "#252a40",
+    "backgroundTertiary": "#2e3350",
+    "textNormal": "#ffffff",
+    "textMuted": "#a8b3d1",
+    "link": "#8ec5ff",
+    "danger": "#ff497a",
+    "success": "#7fffd4",
+    "brand": "#e3c66d"
+  }
+}
